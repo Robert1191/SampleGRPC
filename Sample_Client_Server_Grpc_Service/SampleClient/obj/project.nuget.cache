@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/exXRzmq/9gqX9/qb5BCg1fDKU2C1Soi7/NTEJHFAFiJrcoBsRUqbRQwCqVRIHu9pQDzx0SDFgfsKSPjllRL+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\SampleClient\\SampleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert.L\\.nuget\\packages\\google.protobuf\\3.23.4\\google.protobuf.3.23.4.nupkg.sha512",
+    "C:\\Users\\Robert.L\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",
+    "C:\\Users\\Robert.L\\.nuget\\packages\\grpc.net.client\\2.55.0\\grpc.net.client.2.55.0.nupkg.sha512",
+    "C:\\Users\\Robert.L\\.nuget\\packages\\grpc.net.common\\2.55.0\\grpc.net.common.2.55.0.nupkg.sha512",
+    "C:\\Users\\Robert.L\\.nuget\\packages\\grpc.tools\\2.56.2\\grpc.tools.2.56.2.nupkg.sha512",
+    "C:\\Users\\Robert.L\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Robert.L\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

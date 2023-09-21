@@ -1,0 +1,15 @@
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\bin\Debug\net7.0\Sample_Client_Server_Grpc_Service.exe
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\bin\Debug\net7.0\Sample_Client_Server_Grpc_Service.deps.json
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\bin\Debug\net7.0\Sample_Client_Server_Grpc_Service.runtimeconfig.json
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\bin\Debug\net7.0\Sample_Client_Server_Grpc_Service.dll
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\bin\Debug\net7.0\Sample_Client_Server_Grpc_Service.pdb
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.csproj.AssemblyReference.cache
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.AssemblyInfoInputs.cache
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.AssemblyInfo.cs
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.csproj.CoreCompileInputs.cache
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.dll
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\refint\Sample_Client_Server_Grpc_Service.dll
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.pdb
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\Sample_Client_Server_Grpc_Service.genruntimeconfig.cache
+C:\Users\Robert.L\Desktop\Sample_Client_Server_Grpc_Service\Sample_Client_Server_Grpc_Service\obj\Debug\net7.0\ref\Sample_Client_Server_Grpc_Service.dll
