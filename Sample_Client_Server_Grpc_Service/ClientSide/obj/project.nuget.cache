@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vWJ7MTgwNTKvZKk4zGrxsPoLY8Ym4T1QvmlGm6T+FPv0oHh76+r122uuhKLIL5376fJLFJmfN+jBAqYkO/xByA==",
+  "dgSpecHash": "YV3OwofbC3YIkWnXwnbFX9bXSLnikYTg+JHHotZAoBL7iM4zWm1Mkn4jMlI0vzqlxJhq867rPhKfXg1DEJAZcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\ClientSide\\ClientSide.csproj",
+  "projectFilePath": "C:\\Users\\Robert.L\\Documents\\GitHub\\SampleGRPC\\Sample_Client_Server_Grpc_Service\\ClientSide\\ClientSide.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robert.L\\.nuget\\packages\\google.protobuf\\3.23.4\\google.protobuf.3.23.4.nupkg.sha512",
     "C:\\Users\\Robert.L\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",

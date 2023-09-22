@@ -299,11 +299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\SampleClient\\SampleClient.csproj",
+      "projectUniqueName": "C:\\Users\\Robert.L\\Documents\\GitHub\\SampleGRPC\\Sample_Client_Server_Grpc_Service\\SampleClient\\SampleClient.csproj",
       "projectName": "SampleClient",
-      "projectPath": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\SampleClient\\SampleClient.csproj",
+      "projectPath": "C:\\Users\\Robert.L\\Documents\\GitHub\\SampleGRPC\\Sample_Client_Server_Grpc_Service\\SampleClient\\SampleClient.csproj",
       "packagesPath": "C:\\Users\\Robert.L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\SampleClient\\obj\\",
+      "outputPath": "C:\\Users\\Robert.L\\Documents\\GitHub\\SampleGRPC\\Sample_Client_Server_Grpc_Service\\SampleClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

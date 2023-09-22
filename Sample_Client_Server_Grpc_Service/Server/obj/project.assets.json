@@ -748,11 +748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Robert.L\\Documents\\GitHub\\SampleGRPC\\Sample_Client_Server_Grpc_Service\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\Robert.L\\Documents\\GitHub\\SampleGRPC\\Sample_Client_Server_Grpc_Service\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Robert.L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robert.L\\Desktop\\Sample_Client_Server_Grpc_Service\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Robert.L\\Documents\\GitHub\\SampleGRPC\\Sample_Client_Server_Grpc_Service\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

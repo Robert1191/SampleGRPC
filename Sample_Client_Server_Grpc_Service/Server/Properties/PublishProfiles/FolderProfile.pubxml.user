@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Robert.L\Documents\GitHub\SampleGRPC\Sample_Client_Server_Grpc_Service\Server\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-09-22T01:05:37.4896575Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
